@@ -1,1 +1,0 @@
-# bar-code-scanner
